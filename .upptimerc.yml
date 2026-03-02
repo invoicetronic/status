@@ -27,6 +27,7 @@ status-website:
   name: Invoicetronic Status
   introTitle: "**Invoicetronic** is currently"
   introMessage: This is the status page for [Invoicetronic](https://invoicetronic.com) services. Check back here for real-time updates on service availability.
+  css: "footer { display: none; }"
   navbar:
     - title: Status
       href: /
