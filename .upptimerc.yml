@@ -22,8 +22,8 @@ sites:
 status-website:
   cname: status.invoicetronic.com
   baseUrl: ""
-  logoUrl: https://raw.githubusercontent.com/invoicetronic/branding/cf88ced28ab495c533090b32a31a7d18a826c53a/logo/brand-mark/green.svg
-  faviconSvg: https://raw.githubusercontent.com/invoicetronic/branding/cf88ced28ab495c533090b32a31a7d18a826c53a/logo/brand-mark/green.svg
+  logoUrl: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+  faviconSvg: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
   name: Invoicetronic Status
   introTitle: "**Invoicetronic** is currently"
   introMessage: This is the status page for [Invoicetronic](https://invoicetronic.com) services. Check back here for real-time updates on service availability.
