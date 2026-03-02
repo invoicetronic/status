@@ -1,0 +1,33 @@
+owner: invoicetronic
+repo: status
+
+sites:
+  - name: API
+    url: https://api.invoicetronic.com/v1/health/
+    expectedStatusCodes:
+      - 200
+
+  - name: Dashboard
+    url: https://dashboard.invoicetronic.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
+  - name: API Reference
+    url: https://api.invoicetronic.com/v1/docs
+    expectedStatusCodes:
+      - 200
+
+status-website:
+  cname: status.invoicetronic.com
+  baseUrl: /
+  logoUrl: https://invoicetronic.com/assets/logomark-white.svg
+  name: Invoicetronic Status
+  introTitle: "**Invoicetronic** is currently"
+  introMessage: This is the status page for [Invoicetronic](https://invoicetronic.com) services. Check back here for real-time updates on service availability.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
