@@ -21,7 +21,7 @@ sites:
 
 status-website:
   cname: status.invoicetronic.com
-  baseUrl: /
+  baseUrl: ""
   logoUrl: https://invoicetronic.com/assets/logomark-white.svg
   name: Invoicetronic Status
   introTitle: "**Invoicetronic** is currently"
