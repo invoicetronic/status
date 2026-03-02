@@ -23,6 +23,7 @@ status-website:
   cname: status.invoicetronic.com
   baseUrl: ""
   logoUrl: https://invoicetronic.com/assets/logomark-white.svg
+  faviconSvg: https://invoicetronic.com/assets/logomark-white.svg
   name: Invoicetronic Status
   introTitle: "**Invoicetronic** is currently"
   introMessage: This is the status page for [Invoicetronic](https://invoicetronic.com) services. Check back here for real-time updates on service availability.
