@@ -6,11 +6,11 @@ Live at **[status.invoicetronic.com](https://status.invoicetronic.com)**
 
 ## Monitored services
 
-| Service | URL |
-| --- | --- |
-| API | `https://api.invoicetronic.com/v1/health/` |
-| Dashboard | `https://dashboard.invoicetronic.com` |
-| API Reference | `https://api.invoicetronic.com/v1/docs` |
+| Service       | URL                                        |
+| ------------- | ------------------------------------------ |
+| API           | `https://api.invoicetronic.com/v1/health/` |
+| Dashboard     | `https://dashboard.invoicetronic.com`      |
+| API Reference | `https://api.invoicetronic.com/v1/docs`    |
 
 ## How it works
 
