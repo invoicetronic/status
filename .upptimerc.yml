@@ -4,11 +4,21 @@ repo: status
 sites:
   - name: API
     url: https://api.invoicetronic.com/v1/health/
+    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
     expectedStatusCodes:
       - 200
 
+  - name: Desk
+    url: https://desk.invoicetronic.com
+    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
   - name: Dashboard
     url: https://dashboard.invoicetronic.com
+    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
     expectedStatusCodes:
       - 200
       - 301
@@ -16,15 +26,9 @@ sites:
 
   - name: API Reference
     url: https://api.invoicetronic.com/v1/docs
+    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
     expectedStatusCodes:
       - 200
-
-  - name: Desk
-    url: https://desk.invoicetronic.com
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
 
 status-website:
   cname: status.invoicetronic.com
