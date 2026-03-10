@@ -2,7 +2,7 @@
   {
     "name": "API",
     "url": "https://api.invoicetronic.com/v1/health/",
-    "icon": "https://icons.duckduckgo.com/ip3/api.invoicetronic.com.ico",
+    "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -18,9 +18,27 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Desk",
+    "url": "https://desk.invoicetronic.com",
+    "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
+    "slug": "desk",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 846,
+    "timeDay": 846,
+    "timeWeek": 846,
+    "timeMonth": 846,
+    "timeYear": 846,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Dashboard",
     "url": "https://dashboard.invoicetronic.com",
-    "icon": "https://icons.duckduckgo.com/ip3/dashboard.invoicetronic.com.ico",
+    "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -38,7 +56,7 @@
   {
     "name": "API Reference",
     "url": "https://api.invoicetronic.com/v1/docs",
-    "icon": "https://icons.duckduckgo.com/ip3/api.invoicetronic.com.ico",
+    "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
     "slug": "api-reference",
     "status": "up",
     "uptime": "100.00%",
@@ -51,24 +69,6 @@
     "timeWeek": 127,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Desk",
-    "url": "https://desk.invoicetronic.com",
-    "icon": "https://icons.duckduckgo.com/ip3/desk.invoicetronic.com.ico",
-    "slug": "desk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 846,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 846,
     "dailyMinutesDown": {}
   }
 ]
