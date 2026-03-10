@@ -19,6 +19,13 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: Desk
+    url: https://desk.invoicetronic.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
 status-website:
   cname: status.invoicetronic.com
   baseUrl: ""
