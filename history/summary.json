@@ -40,19 +40,19 @@
     "url": "https://dashboard.invoicetronic.com",
     "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1507,
-    "timeDay": 1065,
-    "timeWeek": 1436,
-    "timeMonth": 1507,
-    "timeYear": 1507,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1514,
+    "timeDay": 1262,
+    "timeWeek": 1461,
+    "timeMonth": 1514,
+    "timeYear": 1514,
     "dailyMinutesDown": {
-      "2026-03-20": 0
+      "2026-03-20": 46
     }
   },
   {
