@@ -1,7 +1,7 @@
 url: https://dashboard.invoicetronic.com
-status: down
-code: 429
-responseTime: 1063
-lastUpdated: 2026-03-20T14:27:10.977Z
+status: up
+code: 200
+responseTime: 1656
+lastUpdated: 2026-03-20T15:12:41.965Z
 startTime: 2026-03-02T10:47:11.634Z
 generator: Upptime <https://github.com/upptime/upptime>
