@@ -40,18 +40,20 @@
     "url": "https://dashboard.invoicetronic.com",
     "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1530,
-    "timeDay": 1067,
-    "timeWeek": 1490,
-    "timeMonth": 1530,
-    "timeYear": 1530,
-    "dailyMinutesDown": {}
+    "time": 1507,
+    "timeDay": 1065,
+    "timeWeek": 1436,
+    "timeMonth": 1507,
+    "timeYear": 1507,
+    "dailyMinutesDown": {
+      "2026-03-20": 0
+    }
   },
   {
     "name": "API Reference",
