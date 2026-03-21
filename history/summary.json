@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 646,
-    "timeWeek": 752,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 748,
+    "timeDay": 760,
+    "timeWeek": 753,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 931,
-    "timeWeek": 1227,
-    "timeMonth": 1236,
-    "timeYear": 1236,
+    "time": 1248,
+    "timeDay": 1383,
+    "timeWeek": 1220,
+    "timeMonth": 1248,
+    "timeYear": 1248,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1514,
-    "timeDay": 1262,
-    "timeWeek": 1461,
-    "timeMonth": 1514,
-    "timeYear": 1514,
-    "dailyMinutesDown": {
-      "2026-03-20": 46
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1522,
+    "timeDay": 1469,
+    "timeWeek": 1441,
+    "timeMonth": 1522,
+    "timeYear": 1522,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Reference",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 366,
-    "timeWeek": 540,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "time": 366,
+    "timeDay": 603,
+    "timeWeek": 542,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
