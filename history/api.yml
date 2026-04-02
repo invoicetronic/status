@@ -1,7 +1,7 @@
 url: https://api.invoicetronic.com/v1/health/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-02T06:55:48.438Z
+status: up
+code: 200
+responseTime: 653
+lastUpdated: 2026-04-02T07:30:34.519Z
 startTime: 2026-03-02T10:47:10.738Z
 generator: Upptime <https://github.com/upptime/upptime>
