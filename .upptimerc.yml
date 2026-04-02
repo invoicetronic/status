@@ -4,13 +4,13 @@ repo: status
 sites:
   - name: API
     url: https://api.invoicetronic.com/v1/health/
-    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+    icon: https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg
     expectedStatusCodes:
       - 200
 
   - name: Desk
     url: https://desk.invoicetronic.com
-    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+    icon: https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg
     expectedStatusCodes:
       - 200
       - 301
@@ -18,7 +18,7 @@ sites:
 
   - name: Dashboard
     url: https://dashboard.invoicetronic.com
-    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+    icon: https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg
     expectedStatusCodes:
       - 200
       - 301
@@ -26,15 +26,15 @@ sites:
 
   - name: API Reference
     url: https://api.invoicetronic.com/v1/docs
-    icon: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+    icon: https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg
     expectedStatusCodes:
       - 200
 
 status-website:
   cname: status.invoicetronic.com
   baseUrl: ""
-  logoUrl: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
-  faviconSvg: https://raw.githubusercontent.com/invoicetronic/status/main/logo.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg
+  faviconSvg: https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg
   name: Invoicetronic Status
   introTitle: "**Invoicetronic** is currently"
   introMessage: This is the status page for [Invoicetronic](https://invoicetronic.com) services. Check back here for real-time updates on service availability. Response times may appear higher than actual because monitoring runs from GitHub Actions servers in the US, while our services are hosted in Europe.
