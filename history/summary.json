@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.83%",
-    "time": 701,
-    "timeDay": 788,
-    "timeWeek": 656,
-    "timeMonth": 682,
-    "timeYear": 701,
+    "time": 712,
+    "timeDay": 1248,
+    "timeWeek": 765,
+    "timeMonth": 702,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2026-04-02": 109
     }
@@ -25,16 +25,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "desk",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.79%",
-    "time": 1173,
-    "timeDay": 1244,
-    "timeWeek": 1133,
-    "timeMonth": 1156,
-    "timeYear": 1173,
+    "uptimeYear": "99.80%",
+    "time": 1184,
+    "timeDay": 1618,
+    "timeWeek": 1226,
+    "timeMonth": 1175,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2026-04-02": 108
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.84%",
-    "time": 1431,
-    "timeDay": 1485,
-    "timeWeek": 1273,
-    "timeMonth": 1382,
-    "timeYear": 1431,
+    "time": 1435,
+    "timeDay": 1618,
+    "timeWeek": 1362,
+    "timeMonth": 1394,
+    "timeYear": 1435,
     "dailyMinutesDown": {
       "2026-04-02": 103
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.84%",
-    "time": 425,
-    "timeDay": 472,
-    "timeWeek": 434,
-    "timeMonth": 485,
-    "timeYear": 425,
+    "time": 429,
+    "timeDay": 602,
+    "timeWeek": 466,
+    "timeMonth": 490,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2026-04-02": 101
     }
