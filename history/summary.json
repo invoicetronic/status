@@ -4,9 +4,9 @@
     "url": "https://api.invoicetronic.com/v1/health/",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 694,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-04-02": 109
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://desk.invoicetronic.com",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
@@ -36,6 +37,7 @@
     "timeMonth": 1179,
     "timeYear": 1197,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-04-02": 108
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://dashboard.invoicetronic.com",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
@@ -56,6 +58,7 @@
     "timeMonth": 1374,
     "timeYear": 1435,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-04-02": 103
     }
   },
@@ -64,7 +67,7 @@
     "url": "https://api.invoicetronic.com/v1/docs",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api-reference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +79,7 @@
     "timeMonth": 480,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-04-02": 101
     }
   }
