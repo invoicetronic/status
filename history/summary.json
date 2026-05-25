@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 696,
-    "timeDay": 785,
-    "timeWeek": 604,
-    "timeMonth": 662,
+    "timeDay": 778,
+    "timeWeek": 644,
+    "timeMonth": 666,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2026-04-02": 109
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1171,
-    "timeDay": 1481,
-    "timeWeek": 1098,
-    "timeMonth": 1129,
-    "timeYear": 1171,
+    "time": 1174,
+    "timeDay": 1386,
+    "timeWeek": 1167,
+    "timeMonth": 1131,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2026-04-02": 108
     }
@@ -45,16 +45,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1409,
-    "timeDay": 1638,
-    "timeWeek": 1239,
-    "timeMonth": 1363,
-    "timeYear": 1409,
+    "uptimeYear": "99.92%",
+    "time": 1414,
+    "timeDay": 1871,
+    "timeWeek": 1361,
+    "timeMonth": 1375,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2026-04-02": 103
     }
@@ -65,16 +65,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api-reference",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 451,
-    "timeDay": 561,
-    "timeWeek": 434,
-    "timeMonth": 465,
-    "timeYear": 451,
+    "uptimeYear": "99.92%",
+    "time": 453,
+    "timeDay": 627,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2026-04-02": 101
     }
