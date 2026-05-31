@@ -4,9 +4,9 @@
     "url": "https://api.invoicetronic.com/v1/health/",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 659,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2026-05-31": 0,
       "2026-04-02": 109
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://desk.invoicetronic.com",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -36,6 +37,7 @@
     "timeMonth": 1119,
     "timeYear": 1167,
     "dailyMinutesDown": {
+      "2026-05-31": 0,
       "2026-04-02": 108
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://dashboard.invoicetronic.com",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -56,6 +58,7 @@
     "timeMonth": 1349,
     "timeYear": 1406,
     "dailyMinutesDown": {
+      "2026-05-31": 0,
       "2026-04-02": 103
     }
   },
@@ -64,9 +67,9 @@
     "url": "https://api.invoicetronic.com/v1/docs",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api-reference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -76,6 +79,7 @@
     "timeMonth": 459,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2026-05-31": 0,
       "2026-04-02": 101
     }
   }
