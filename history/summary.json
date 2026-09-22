@@ -13,7 +13,7 @@
     "time": 669,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 567,
+    "timeMonth": 543,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2026-04-02": 109
@@ -33,7 +33,7 @@
     "time": 1142,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1100,
+    "timeMonth": 1049,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2026-04-02": 108
@@ -45,15 +45,15 @@
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1390,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1323,
+    "timeMonth": 1227,
     "timeYear": 1390,
     "dailyMinutesDown": {
       "2026-04-02": 103
@@ -73,7 +73,7 @@
     "time": 443,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 356,
+    "timeMonth": 344,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2026-04-02": 101
