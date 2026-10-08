@@ -4,10 +4,10 @@
     "url": "https://api.invoicetronic.com/v1/health/",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 663,
@@ -16,7 +16,8 @@
     "timeMonth": 529,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2026-04-02": 109
+      "2026-04-02": 109,
+      "2026-10-08": 1
     }
   },
   {
@@ -24,10 +25,10 @@
     "url": "https://desk.invoicetronic.com",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1153,
@@ -36,7 +37,8 @@
     "timeMonth": 1387,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2026-04-02": 108
+      "2026-04-02": 108,
+      "2026-10-08": 1
     }
   },
   {
@@ -44,9 +46,9 @@
     "url": "https://dashboard.invoicetronic.com",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -56,7 +58,8 @@
     "timeMonth": 1613,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2026-04-02": 103
+      "2026-04-02": 103,
+      "2026-10-08": 0
     }
   },
   {
@@ -64,9 +67,9 @@
     "url": "https://api.invoicetronic.com/v1/docs",
     "icon": "https://cdn.jsdelivr.net/gh/invoicetronic/status@main/logo.svg",
     "slug": "api-reference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -76,7 +79,8 @@
     "timeMonth": 457,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2026-04-02": 101
+      "2026-04-02": 101,
+      "2026-10-08": 0
     }
   }
 ]
